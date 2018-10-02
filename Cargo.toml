@@ -1,0 +1,6 @@
+[package]
+name = "reproduce_intellij_rust_autoimport_bug_in_nested_module"
+version = "0.1.0"
+authors = ["loomaclin <loo.maclin@protonmail.com>"]
+
+[dependencies]
